@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Greetings! I am Axy
 
-<!--
-**42axy/42axy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇦🇱 15 year old with a love for technology!
 
-Here are some ideas to get you started:
+# 💪 Qualifications & Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UX/UI designer, Graphic designer, Discord bot coder and many more (I listed only the things I'm good at, I can do more)
+
+# 🔌 You can find more at:
+
+TikTok: [https://tiktok.com/@dor6s](@dor6s)
+Instagram: [https://instagram.com/dor6s](@dor6s)
+My website: [https://axy.gr/](Axy.gr)
+
+Thanks for reading!
