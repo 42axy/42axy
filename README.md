@@ -1,15 +1,58 @@
-# 👋 Greetings! I am Axy
+# Doris | axy.dev
 
-🇦🇱 15 year old with a love for technology!
+**Discord bot developer @ GFX Artist @ UX/UI Designer**  
+JavaScript • TypeScript • HTML
 
-# 💪 Qualifications & Hobbies
+---
 
-UX/UI designer, Graphic designer, Discord bot coder and many more (I listed only the things I'm good at, I can do more)
+## 👋 About Me
 
-# 🔌 You can find more at:
+Hi! I'm Doris, a passionate developer who loves building open, accessible, and performant web applications. I thrive on learning new technologies, solving complex problems, and making the web a better place for everyone.
 
-TikTok: [https://tiktok.com/@dor6s](@dor6s)
-Instagram: [https://instagram.com/dor6s](@dor6s)
-My website: [https://axy.gr/](Axy.gr)
+- 🌱 Always learning and experimenting with new tech
+- 💡 Enthusiastic problem solver and creative coder
+- 🦾 Strong advocate for open source and web accessibility
 
-Thanks for reading!
+---
+
+## 💻 Core Skills
+
+- **Languages:** JavaScript, TypeScript, HTML/CSS
+- **Other:** Paint.net, After Effects, Premiere Pro, Photoshop
+
+---
+
+## 🚀 Projects & Work
+
+- **Personal Projects:** [axy.gr](https://axy.gr)
+- **Open Source:** Always looking to contribute and collaborate!
+
+---
+
+## 📫 Connect with Me
+
+- **Discord:** `axy.dev`
+- **Website:** [axy.gr](https://axy.gr)
+- **GitHub:** [42axy](https://github.com/42axy)
+
+---
+
+## 🛠️ Tools & Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-333?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?logo=tailwindcss&logoColor=38B2AC)
+![Rust](https://img.shields.io/badge/-Rust-333?logo=rust&logoColor=DEA584)
+![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=339933)
+
+---
+
+## ✨ Fun Facts
+
+- 📌 Motto: "Make the web more open to the world."
+- ⚡ Fun: I love(d) Fortnite, and building things that matter. 
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
