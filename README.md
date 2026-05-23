@@ -1,4 +1,4 @@
-# Doris | axy.dev
+# axy.dev
 
 **Discord bot developer @ GFX Artist @ UX/UI Designer**  
 JavaScript • TypeScript • HTML
@@ -7,7 +7,7 @@ JavaScript • TypeScript • HTML
 
 ## 👋 About Me
 
-Hi! I'm Doris, a passionate developer who loves building open, accessible, and performant web applications. I thrive on learning new technologies, solving complex problems, and making the web a better place for everyone.
+Hi! I'm axy, a passionate developer who loves building open, accessible, and performant web applications. I thrive on learning new technologies, solving complex problems, and making the web a better place for everyone.
 
 - 🌱 Always learning and experimenting with new tech
 - 💡 Enthusiastic problem solver and creative coder
@@ -31,7 +31,7 @@ Hi! I'm Doris, a passionate developer who loves building open, accessible, and p
 
 ## 📫 Connect with Me
 
-- **Discord:** `axy.dev`
+- **Discord:** `.axy3`
 - **Website:** [axy.gr](https://axy.gr)
 - **GitHub:** [42axy](https://github.com/42axy)
 
